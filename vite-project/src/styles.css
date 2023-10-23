@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(229, 245, 240);
+}
+.new-item-form{
+    container: 4px;
+}
+.form-button{
+    margin: auto;
+    background-color: blueviolet;
+    justify-content: right;
+    position: right;
+}
+.container{
+    padding-top: 30px;
+}
